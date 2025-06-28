@@ -1,4 +1,16 @@
-This is a Generative AI Chatbot for DeviceCare Frontline Customer Support, built using NextJS (React) and OpenAI Assistants API.
+A Generative AI chatbot for **DeviceCare**'s frontline support, built with **Next.js (React)** and the **OpenAI Assistants API**. It delivers fast, contextual, and intelligent responses to user queries based on an integrated FAQ document.
+
+---
+
+## ✨ Features
+
+- 🔍 **FAQ-aware Assistant**: Uses OpenAI's file search and vector store to provide grounded responses based on your custom FAQ.
+- 📦 **Streaming API Responses**: Smooth and real-time replies from the chatbot using fetch streams.
+- 💬 **Typing Indicators**: Realistic conversation experience with dynamic typing bubbles.
+- 🧠 **Prompt Engineering**: Refined instructions and fallback logic for out-of-scope questions.
+- 🎨 **Fully Styled UI**: Built with TailwindCSS and React Components for clean, responsive design.
+
+---
 
 ## Getting Started
 
